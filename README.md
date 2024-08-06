@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @olivia-mullin
+- 👀 I’m interested in Quality Engineering and AI!
+- 🌱 I’m currently learning Full Stack Development
+- 📫 How to reach me: olivia_mullin@yahoo.com or through my [LinkedIn](url)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love video games and would love to get my foot in the door in video game development and testing :)
